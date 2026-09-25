@@ -63,8 +63,6 @@ Les versions en ligne et locale conservent chacune leur progression dans leur pr
 
 10 XP sont accordés une seule fois quand ta réponse correspond au **corrigé fourni**. Bronze : 100 XP · Silver : 300 XP · Gold : 600 XP. Les scores, séries, cases des modules et étapes des labs restent sur ce navigateur. Dans **Progression**, télécharge une sauvegarde JSON pour pouvoir les restaurer après changement de navigateur ou effacement des données locales.
 
-## 🔎 Ce que le contenu garantit, et ce qu'il ne garantit pas
+## 🔎 Vérifier les informations
 
-Les **489 questions** et leurs corrigés viennent des six DOCX fournis ; **ils n'ont pas tous été vérifiés individuellement**. Une seule question dispose pour l'instant de l'analyse détaillée, vérifiée et accompagnée de scénarios pour chaque autre réponse. Les cas supplémentaires des modules sont des exercices originaux, pas des questions officielles Microsoft. Un trophée mesure donc la pratique, **pas** une certification de l'exactitude de tous les corrigés.
-
-Les [documents sources](sources/) et [fiches individuelles](questions/) sont conservés pour corriger les éventuelles erreurs. Avant de rendre ce dépôt public, vérifie les droits de redistribution des DOCX et des questions qu'ils contiennent.
+Les questions, les corrigés et les notes servent de supports de révision. Vérifiez les réponses et les informations par vous-même dans la [documentation officielle Microsoft](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104) avant de vous y fier.
