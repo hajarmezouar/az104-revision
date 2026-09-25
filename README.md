@@ -37,3 +37,7 @@ Les noms des domaines et les termes Azure restent en anglais ; les explications 
 ### Trophées et sauvegarde
 
 Bronze (100 XP), Silver (300 XP) et Gold (600 XP) se débloquent à raison de 10 XP par question conforme au corrigé fourni pour la première fois. La série et le score restent enregistrés dans le navigateur de l'appareil. L'onglet « Progression » permet de télécharger une sauvegarde JSON et de la réimporter après un changement de navigateur ou un effacement des données locales. Les réponses du document source restent à vérifier individuellement ; un trophée ne valide pas l'exactitude scientifique de toutes les questions.
+
+## Labs AZ-104
+
+L’onglet **Labs guidés** propose cinq ateliers courts, un par domaine du programme, avec schéma, commandes ou étapes Portal, contrôles, défi, nettoyage et sources Microsoft Learn. La progression des labs est locale et incluse dans l’export de sauvegarde. Voir [le guide des labs](labs/README.md) et le [template Bicep](labs/03-bicep/main.bicep). Des dépôts publics MicrosoftLearning et Azure sont référencés, sans leur donner accès à ce dépôt privé.
