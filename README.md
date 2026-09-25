@@ -16,7 +16,7 @@ explorer.exe app/index.html
 
 Ou double-clique sur `app/index.html` dans l'Explorateur Windows. L'application locale fonctionne **hors connexion** ; les liens Microsoft Learn demandent Internet. Aucune installation de dépendances n'est nécessaire.
 
-Si tu viens de récupérer une mise à jour, lance `git pull` avant d'ouvrir le fichier. Dans cet environnement, le dossier local est `C:\Users\Utilisateur\Documents\az104-revision`.
+Si tu viens de récupérer une mise à jour, lance `git pull` avant d'ouvrir le fichier.
 
 ## 🧭 Choisis ton parcours
 
