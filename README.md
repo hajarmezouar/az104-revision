@@ -29,3 +29,7 @@ Ouvrir [`app/index.html`](app/index.html) dans le navigateur, même hors connexi
 L'onglet « Modules AZ-104 » suit les cinq domaines du [guide Microsoft Learn (compétences depuis le 17 avril 2026)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104) : identités/gouvernance (20–25 %), stockage (15–20 %), calcul/applications (20–25 %), réseaux (15–20 %) et supervision/continuité (10–15 %). Chaque module contient un modèle visuel, les faits à retenir, les raisonnements à maîtriser, les objectifs à couvrir, des fiches originales et trois cas interactifs. Les cas ajoutés sont des exercices originaux ; ils ne prétendent pas être des questions officielles de l'examen.
 
 Pour ouvrir l'application sur Windows après extraction : `C:\Users\Utilisateur\Documents\az104-revision\app\index.html`. Dans WSL, depuis le dépôt : `explorer.exe app/index.html`.
+
+### Langue et retour d'entraînement
+
+Les noms des domaines et les termes Azure restent en anglais ; les explications et les conseils sont en français. Le mode questions affiche une réaction après vérification, une série de bonnes réponses et des XP. Les XP sont attribués une fois par question lorsque la réponse correspond pour la première fois au **corrigé fourni**, qui n'est pas systématiquement vérifié. La progression et les points sont enregistrés uniquement dans le navigateur local.
