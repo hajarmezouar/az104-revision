@@ -6,7 +6,7 @@ Un terrain d'entraînement personnel pour préparer **Microsoft Azure Administra
 
 ## ▶️ Ouvrir l'application
 
-**En ligne, à partager :** [Ouvrir AZ-104 Studio](https://az104-study-studio.hajarmezouar617.chatgpt.site). Le dépôt GitHub peut rester privé : seules les pages publiées sont accessibles avec ce lien.
+**En ligne, à partager :** [Ouvrir AZ-104 Studio](https://hajarmezouar.github.io/az104-revision/). Les mises à jour de `app/` sur `main` sont publiées automatiquement par GitHub Pages.
 
 **Hors connexion :** depuis WSL, dans ce dépôt :
 
@@ -59,7 +59,7 @@ Pour aller plus loin sans recopier des contenus externes :
 
 ## 🏅 Scores et sauvegarde
 
-Les versions en ligne et locale conservent chacune leur progression dans leur propre navigateur/origine. Pour passer de l'une à l'autre, exporte le JSON dans **Progression**, puis importe-le dans l'autre version. La publication en ligne n'est pas mise à jour automatiquement par un `git push` : une nouvelle version du site doit être déployée.
+Les versions en ligne et locale conservent chacune leur progression dans leur propre navigateur/origine. Pour passer de l'une à l'autre, exporte le JSON dans **Progression**, puis importe-le dans l'autre version. La version GitHub Pages est mise à jour automatiquement après un `git push` qui modifie `app/` sur `main`.
 
 10 XP sont accordés une seule fois quand ta réponse correspond au **corrigé fourni**. Bronze : 100 XP · Silver : 300 XP · Gold : 600 XP. Les scores, séries, cases des modules et étapes des labs restent sur ce navigateur. Dans **Progression**, télécharge une sauvegarde JSON pour pouvoir les restaurer après changement de navigateur ou effacement des données locales.
 
