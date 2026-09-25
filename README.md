@@ -6,13 +6,15 @@ Un terrain d'entraînement personnel pour préparer **Microsoft Azure Administra
 
 ## ▶️ Ouvrir l'application
 
-Depuis WSL, dans ce dépôt :
+**En ligne, à partager :** [Ouvrir AZ-104 Studio](https://az104-study-studio.hajarmezouar617.chatgpt.site). Le dépôt GitHub peut rester privé : seules les pages publiées sont accessibles avec ce lien.
+
+**Hors connexion :** depuis WSL, dans ce dépôt :
 
 ```bash
 explorer.exe app/index.html
 ```
 
-Ou double-clique sur `app/index.html` dans l'Explorateur Windows. L'application fonctionne **hors connexion** ; les liens Microsoft Learn demandent Internet. Aucune installation de dépendances n'est nécessaire.
+Ou double-clique sur `app/index.html` dans l'Explorateur Windows. L'application locale fonctionne **hors connexion** ; les liens Microsoft Learn demandent Internet. Aucune installation de dépendances n'est nécessaire.
 
 Si tu viens de récupérer une mise à jour, lance `git pull` avant d'ouvrir le fichier. Dans cet environnement, le dossier local est `C:\Users\Utilisateur\Documents\az104-revision`.
 
@@ -56,6 +58,8 @@ Pour aller plus loin sans recopier des contenus externes :
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) — lis le template et estime les ressources avant de déployer
 
 ## 🏅 Scores et sauvegarde
+
+Les versions en ligne et locale conservent chacune leur progression dans leur propre navigateur/origine. Pour passer de l'une à l'autre, exporte le JSON dans **Progression**, puis importe-le dans l'autre version. La publication en ligne n'est pas mise à jour automatiquement par un `git push` : une nouvelle version du site doit être déployée.
 
 10 XP sont accordés une seule fois quand ta réponse correspond au **corrigé fourni**. Bronze : 100 XP · Silver : 300 XP · Gold : 600 XP. Les scores, séries, cases des modules et étapes des labs restent sur ce navigateur. Dans **Progression**, télécharge une sauvegarde JSON pour pouvoir les restaurer après changement de navigateur ou effacement des données locales.
 
