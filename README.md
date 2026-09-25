@@ -17,3 +17,9 @@ Les figures des questions restent dans les DOCX d’origine. Pour une question q
 Chaque question demande : réponse justifiée, raison de rejet des autres options, mini scénario où chacune serait valable, schéma utile, lien Microsoft Learn précis. Si l’énoncé manque de données ou si le corrigé est contestable, noter l’incertitude au lieu d’inventer.
 
 Le dépôt est conçu pour rester privé tant que les droits de redistribution des examens ne sont pas établis.
+
+## Application de révision visuelle
+
+Ouvrir [`app/index.html`](app/index.html) dans le navigateur, même hors connexion. Les captures des 201 occurrences présentes dans les DOCX sont intégrées à la question correspondante (95 fichiers image distincts). L'application contient les 489 questions, l'entraînement interactif, un filtre d'erreurs, six fiches visuelles, douze cartes mémoire et une progression locale.
+
+**Limite actuelle :** une seule question dispose de l'analyse vérifiée détaillée et des scénarios pour chaque autre choix. Les explications des autres questions proviennent des examens fournis et ne sont pas encore validées. Les fiches thématiques sont une amorce, pas un cours complet. L'application n'envoie aucune donnée à un serveur.
