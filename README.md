@@ -33,3 +33,7 @@ Pour ouvrir l'application sur Windows après extraction : `C:\Users\Utilisateur\
 ### Langue et retour d'entraînement
 
 Les noms des domaines et les termes Azure restent en anglais ; les explications et les conseils sont en français. Le mode questions affiche une réaction après vérification, une série de bonnes réponses et des XP. Les XP sont attribués une fois par question lorsque la réponse correspond pour la première fois au **corrigé fourni**, qui n'est pas systématiquement vérifié. La progression et les points sont enregistrés uniquement dans le navigateur local.
+
+### Trophées et sauvegarde
+
+Bronze (100 XP), Silver (300 XP) et Gold (600 XP) se débloquent à raison de 10 XP par question conforme au corrigé fourni pour la première fois. La série et le score restent enregistrés dans le navigateur de l'appareil. L'onglet « Progression » permet de télécharger une sauvegarde JSON et de la réimporter après un changement de navigateur ou un effacement des données locales. Les réponses du document source restent à vérifier individuellement ; un trophée ne valide pas l'exactitude scientifique de toutes les questions.
